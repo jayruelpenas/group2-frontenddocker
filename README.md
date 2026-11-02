@@ -1,43 +1,47 @@
-# COPC Record Management System
 
-A web-based system for managing and organizing Certificate of Program Compliance (COPC) records.
+# COPC-Record-Management-System
+COPC-System
+=======# React + Vite
 
-## Project Overview
+Project Overview
 
 The COPC Record Management System is designed to help organize, manage, and track records related to the Certificate of Program Compliance (COPC) process.
 
-## Technologies Used
+Technologies Used
 
-- React
-- Vite
-- JavaScript
-- CSS
+React
 
-## Getting Started
+Vite
 
-### Prerequisites
+JavaScript
 
-- Node.js
-- npm
+CSS
 
-### Installation
+Getting Started
 
-1. Clone the repository.
-2. Open the project folder in your terminal.
-3. Install the dependencies:
+Prerequisites
 
-   ```bash
-   npm install
-   ```
+Node.js
 
-4. Start the development server:
+npm
 
-   ```bash
-   npm run dev
-   ```
+Installation
 
-5. Open the local URL displayed in your terminal.
+Clone the repository.
 
-## Project Status
+Open the project folder in your terminal.
+
+Install the dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Open the local URL displayed in your terminal.
+
+Project Status
 
 Under development.
+
